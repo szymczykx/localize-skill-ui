@@ -1,0 +1,3 @@
+interface:
+  display_name: "Skill 界面汉化"
+  short_description: "将 Skill 的界面描述改为中文，保留原始详细说明并支持更新后重新应用"
